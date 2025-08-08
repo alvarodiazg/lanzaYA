@@ -19,3 +19,6 @@ Aplicación web lista para lanzar **MVPs en horas**. Diseñada para emprendedore
 ```bash
 git clone https://github.com/alvarodiazg/lanzaYA.git
 cd lanzaYA
+<p align="center">
+  <img src="lanzaYA.png" alt="LanzaYA" width="400">
+</p>
